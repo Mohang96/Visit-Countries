@@ -1,4 +1,4 @@
-This project aims to quickly get you off the ground with **Lists and Keys** in React JS.
+This project aims to quickly revise the concept of **Lists and Keys** in React JS.
 
 ### Project Sample Outlook
 <br/>
