@@ -1,0 +1,20 @@
+.countries-and-btns-container {
+  height: 50vh;
+  padding-top: 20px;
+}
+
+.countries-heading {
+  color: #f8fafc;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.countries-list {
+  background-color: #1f1f2f;
+  height: 80%;
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px 0px 0px 8px;
+  overflow: auto;
+}

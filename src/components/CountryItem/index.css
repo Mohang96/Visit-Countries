@@ -1,0 +1,34 @@
+.country {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.last-country {
+  border-bottom: none;
+}
+
+.country-name {
+  color: #ffffff;
+  margin-left: 15px;
+}
+
+.visited-text {
+  color: #94a3b8;
+  font-weight: 500;
+  margin-right: 15px;
+}
+
+.visit-btn {
+  margin-right: 15px;
+  background-color: #3b82f6;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 5px 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
